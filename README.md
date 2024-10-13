@@ -17,7 +17,7 @@
 |  Hardware/VPS |  Minimum |
 | ------------ | ------------ |
 | CPU  | 4 or more physical CPU cores  |
-| RAM | At least 8GB of memory (RAM) |
+| RAM | At least 6GB of memory (RAM) |
 | Penyimpanan  | At least 100GB of SSD disk storage |
 | Internet | At least 10mbps network bandwidth |
 ## Auto Install
