@@ -8,7 +8,11 @@
 
 
 # ZENROCK TESTNET NODE
-
+## Link
+- [Explorer](https://testnet.itrocket.net/zenrock/staking)
+- [Discord](https://discord.gg/bnJfVmHg)
+- [Documentation](https://docs.zenrocklabs.io/)
+- [Twitter](https://x.com/OfficialZenRock)
 ## SPEK VPS MINIMUM
 |  Hardware/VPS |  Minimum |
 | ------------ | ------------ |
