@@ -63,7 +63,7 @@ zenrockd q bank balances $(zenrockd keys show wallet -a)
 ```
 ### Delegate Token to your self
 ```
-zenrockd tx validation delegate $(zenrockd keys show wallet --bech val -a) 1000000urock --from wallet --chain-id gardia-2 --gas-adjustment 1.4 --gas auto --gas-prices 0urock -y
+zenrockd tx validation delegate $(zenrockd keys show wallet --bech val -a) 1000000urock --from wallet --chain-id gardia-2 --gas-adjustment 1.4 --gas auto --gas-prices 30urock -y
 ```
 ### Delegate Token to more Validator
 ```
